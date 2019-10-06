@@ -11,9 +11,9 @@
 
     <link rel="shortcut icon" href="/favicon.ico">
     <!-- Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'
           type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- Global CSS -->
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <!-- Plugins CSS -->
@@ -54,7 +54,9 @@
 
                     <div class="content">
                       <p>
-                        With over 6 years of industry experience in software engineering, and even more years as an avid coder, I’ve had the opportunity to lead and grow large scale engineering teams in high pressure environments. My objective is to pursue and continue this career path to face new challenges and improve my leadership capabilities.
+                        With over
+                        <span id="year">6</span>
+                         years of industry experience in software engineering, and even more years as an avid coder, I’ve had the opportunity to lead and grow large scale engineering teams in high pressure environments. My objective is to pursue and continue this career path to face new challenges and improve my leadership capabilities.
                       </p>
                     </div>
                 </div>
@@ -163,7 +165,7 @@
                                     href="mailto:ollie@ollietroward.com">ollie@ollietroward.com</a>
                             </li>
                             <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a
-                                    href="#">http://ollietroward.com</a>
+                                    href="#">https://ollietroward.com</a>
                             </li>
                         </ul>
                     </div>
@@ -294,7 +296,7 @@
 <footer class="footer">
     <div class="container text-center">
         <small class="copyright">Designed with <i class="fa fa-heart"></i> by
-            <a href="http://themes.3rdwavemedia.com" target="_blank">3rd Wave Media</a> for
+            <a href="https://themes.3rdwavemedia.com" target="_blank">3rd Wave Media</a> for
             developers
         </small>
     </div>
@@ -306,5 +308,6 @@
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/plugins/github-card/widget.js"></script>
 <script type="text/javascript" src="assets/js/main.js"></script>
+<script> document.getElementById("year").innerHTML = new Date().getFullYear() - 2012; </script>
 </body>
 </html>
