@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
+    <title>Posts on Blog 👨🏻‍💻</title>
     <link>https://blog.ollietroward.com/posts/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <description>Recent content in Posts on Blog 👨🏻‍💻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 19 Dec 2019 22:03:49 +0000</lastBuildDate>
@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://blog.ollietroward.com/posts/my-first-post/</link>
+      <title>Hello Blog!</title>
+      <link>https://blog.ollietroward.com/posts/hello-blog/</link>
       <pubDate>Thu, 19 Dec 2019 22:03:49 +0000</pubDate>
       
-      <guid>https://blog.ollietroward.com/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://blog.ollietroward.com/posts/hello-blog/</guid>
+      <description>Hi there 👋 I never really thought I&#39;d be one to write and talk about myself. I&#39;ve always had a habit of locking away my thoughts and processing them over and over until I get distracted by something else to think about. So this blog is really another form of expression about the topics I often analyse (or over-analyse) in my day-to-day work and personal life.
+As you probably know, after I left University all those years ago, I began a career in Software Engineering.</description>
     </item>
     
   </channel>
