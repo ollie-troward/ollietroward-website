@@ -12,7 +12,7 @@ personal life.
 
 As you probably know, after I left University all those years ago, I began a career in Software Engineering. Starting my first job as a Junior Developer was **hard**, I loved the attempt at hacking away and actually building something for another person to use. But quite quickly, things went wrong. So many moments where I scratched by head and just said "I have absolutely no idea what is happening?". My evenings consisted of using a variety of learning resources just to understand what the hell [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)) meant, regardless how many times my lecturer told me.
 
-![Not Sure Good Programmer Meme](/img/not-sure-ifi-am-a-good-programming-or-good-at-45121907.png)
+{{< image src="/img/not-sure-ifi-am-a-good-programming-or-good-at-45121907.png" alt="Not Sure Good Programmer Meme" position="center">}}
 
 As I continued to make more and more mistakes with the companies code base, I learnt a substantial amount of my own
 potential and starting to think bigger on what I wanted to do with my career. I joined a bigger company, where the
