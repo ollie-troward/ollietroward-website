@@ -5,7 +5,7 @@ build:
 serve:
 	hugo server -D
 push:
-	@read -p "Commit Message:" commit; \
-	git add . \
-	git commit -m "$$commit" \
+	read -p "Commit Message:" commit; \
+	git add .
+	git commit -m "$commit"
 	git push
