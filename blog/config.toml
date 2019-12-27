@@ -13,7 +13,7 @@ canonifyURLs = true
   facebook = "https://facebook.com/ollie.troward"
   sitename = "Blog 👨🏻‍💻"
   twitter = "@ollietroward"
-  images = ["https://blog.ollietroward.com/img/profile-me.png"]
+  images = ["https://blog.ollietroward.com/img/blog-emoji.png"]
   description = "Blogging my brain on a variety of topics ranging from health to tech"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
@@ -41,7 +41,7 @@ canonifyURLs = true
     dateFormatList = "02/01/2006"
 
     [languages.en.params.logo]
-      logoText = "Ollie Troward"
+      logoText = "Ollie Troward 👨🏻‍💻"
       logoHomeLink = "/"
     # or
     #
@@ -51,7 +51,7 @@ canonifyURLs = true
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "website"
-        name = "Website"
+        name = "Website 🌍"
         url = "https://ollietroward.com"
 #    [languages.en.menu]
 #      [[languages.en.menu.main]]
