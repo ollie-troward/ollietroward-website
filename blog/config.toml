@@ -13,6 +13,8 @@ canonifyURLs = true
   facebook = "https://facebook.com/ollie.troward"
   sitename = "Blog 👨🏻‍💻"
   twitter = "@ollietroward"
+  images = ["https://blog.ollietroward.com/img/profile-me.jpg"]
+  description = "Blogging my brain on a variety of topics ranging from health to tech"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # "light" or "dark"
