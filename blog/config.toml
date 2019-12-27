@@ -2,8 +2,17 @@ baseurl = "https://blog.ollietroward.com"
 languageCode = "en-uk"
 theme = "hello-friend"
 paginate = 5
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
+  author = "Ollie Troward"
+  github = "https://github.com/ollie-troward"
+  facebook = "https://facebook.com/ollie.troward"
+  sitename = "Blog 👨🏻‍💻"
+  twitter = "@ollietroward"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # "light" or "dark"
@@ -17,7 +26,7 @@ paginate = 5
   [languages.en]
     title = "Blog 👨🏻‍💻"
     subtitle = "Ollie Troward"
-    keywords = ""
+    keywords = "blog software health ollie troward"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
