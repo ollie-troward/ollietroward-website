@@ -28,7 +28,7 @@ _It doesn't matter what role you're in or who you're responsible for, sometimes 
 
 Further down the line I kept up my momentum and now do 4 exercise classes a week. I'm fitter, more enthusiastic and energetic than I remember being in my teens and early 20s. But most of all, every morning after a workout, my mental health levels feel optimum. Not surprising you see successful leaders in the 21st century, thin, lean and ready for the next challenge.
 
-Oh and if you're curious on how many journey went, I recently posted a comparison on social media that you can see below 😅.
+Oh and if you're curious on how my journey went, I recently posted a comparison on social media that you can see below 😅.
 
 {{< image src="/img/mecomparison.jpg" alt="Ollie before and after exercise routines" position="center">}}
 
