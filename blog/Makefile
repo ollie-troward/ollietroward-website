@@ -5,7 +5,6 @@ build:
 serve:
 	hugo server -D
 push:
-	read -p "Commit Message:" commit; \
 	git add .
-	git commit -m "$commit"
+	git commit -m "$$MESSAGE"
 	git push
