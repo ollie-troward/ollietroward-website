@@ -7,4 +7,5 @@ serve:
 push:
 	git add .; \
 	read -p "Commit Message:" message; \
-	git commit -m "$$message";
+	git commit -m "$$message"; \
+	git push
