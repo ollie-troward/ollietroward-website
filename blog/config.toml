@@ -7,7 +7,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
 googleAnalytics = "UA-149504675-1"
-disqusShortname = "ollietroward"
+disqusShortname = "blog-ollietroward"
 
 [params]
   author = "Ollie Troward"
