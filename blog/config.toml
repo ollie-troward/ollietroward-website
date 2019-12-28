@@ -6,6 +6,7 @@ enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
+googleAnalytics = "UA-149504675-1"
 
 [params]
   author = "Ollie Troward"
