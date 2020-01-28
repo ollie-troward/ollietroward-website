@@ -1,12 +1,13 @@
 .PHONY: login
 
+export NODE_TLS_REJECT_UNAUTHORIZED=0
+
 build:
 	hugo -D
 deploy: build push
 	firebase deploy --only hosting:blog-ollietroward
 login:
-	NODE_TLS_REJECT_UNAUTHORIZED=0 \
-    firebase login --reauth --no-localhost
+	firebase login --reauth --no-localhost
 serve:
 	hugo server -D
 push:
