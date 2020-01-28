@@ -66,6 +66,6 @@ As I mentioned earlier in this post, it's not all about the job title and the pi
 Almost 4 years later writing this blog post, I'm still a Lead and still going through that gradual responsibility increase. There's been bumps in the road, where I've looked at my calendar and looked back to what life was like as just an engineer. I've seen some leaders stand down from management and pursue a career in purely engineering. I'll be honest that I've also thought that, but there are so many different parts of being a Lead that I'll miss if I did stand down. Just like getting into software engineering, you need to enjoy your day job. You need to enjoy the constant change in conversation, planning, strategy, measuring performance and most of all, the *people*. You need to enjoy their company, be curious less about the technical solution and more curious from where those solutions come from... the *engineers*. 
 
 ### Thanks for reading!
-Here's a picture of me now after a successful Hackathon to kick off 2020! 
+Here's a picture of me now after a successful Sainsbury's Google Hackathon to kick off 2020! 
 
-{{< image src="/img/google-hackathon.jpg" alt="Me and the team at the Google Hackathon" position="center">}}
+{{< image src="/img/google-hackathon.jpg" alt="Me and the team at the Sainsbury's Google Hackathon 2020" position="center">}}
