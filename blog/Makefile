@@ -3,7 +3,7 @@
 export NODE_TLS_REJECT_UNAUTHORIZED=0
 
 build:
-	hugo -D
+	hugo
 deploy: build push
 	firebase deploy --only hosting:blog-ollietroward
 login:

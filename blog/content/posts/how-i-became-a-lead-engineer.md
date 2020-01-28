@@ -1,9 +1,8 @@
 +++
 title = "How I Became a Lead Engineer"
-date = 2020-01-23T08:49:22Z
+date = 2020-01-28T11:28:22Z
 description = "Here's my story on how I went from your everyday PHP Engineer to a Lead role that had to take on the technical direction for the product and be responsible for a bunch of Engineer's with a variety of different talents."
 cover = "/img/change-ahead.jpg"
-draft = true
 +++
 ## How I became a Lead Engineer
 When people ask me how I became a Lead, I often give them the short story of "I'm not so sure myself", then be a little modest, rambling how it wasn't 100% in my hands. But only recently I've noticed that there are other engineers aspiring to lead one day, and it's only fair to give a thorough explanation to how and why it happened. As I said previously, it's never 100% in your hands, but obviously you can drastically improve your chances by understanding what companies are looking for in leadership. Below is one story of a large corporate retailer, other companies treat leadership differently based on the culture they're trying to build. However, in software engineering, you'll find there's a lot of consistency in their processes for growth and what's expected of a technical leader.
