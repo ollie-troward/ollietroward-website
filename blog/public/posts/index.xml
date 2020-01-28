@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Blog 👨🏻‍💻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 27 Dec 2019 11:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 08:49:22 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ollietroward.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I Became a Lead Engineer</title>
+      <link>https://blog.ollietroward.com/posts/how-i-became-a-lead-engineer/</link>
+      <pubDate>Thu, 23 Jan 2020 08:49:22 +0000</pubDate>
+      
+      <guid>https://blog.ollietroward.com/posts/how-i-became-a-lead-engineer/</guid>
+      <description>How I became a Lead Engineer When people ask me how I became a Lead, I often give them the short story of &amp;ldquo;I&#39;m not so sure myself&amp;rdquo;, then be a little modest, rambling how it wasn&#39;t 100% in my hands. But only recently I&#39;ve noticed that there are other engineers aspiring to lead one day, and it&#39;s only fair to give a thorough explanation to how and why it happened.</description>
+    </item>
+    
+    <item>
+      <title>The Craft of Technical Leadership</title>
+      <link>https://blog.ollietroward.com/posts/technical-leadership/</link>
+      <pubDate>Wed, 15 Jan 2020 08:56:31 +0000</pubDate>
+      
+      <guid>https://blog.ollietroward.com/posts/technical-leadership/</guid>
+      <description>The Craft of Technical Leadership My journey of computer code stems back to my teenage years, just after the Dot-com bubble. There were a lot of web development platforms around like Yahoo! GeoCities, that were relatively regulated but you could pretty much build what you wanted. I remember building quite a weirdly gothic themed website, with inconsistent navigation, absolutely no USP and a brilliant collection of stolen gifs. Irregardless of the Emo Subculture that may of had a hand in the design choice, there was so much satisfaction building and owning a project that you delivered by yourself entirely.</description>
+    </item>
     
     <item>
       <title>Mental Health and Fitness</title>
