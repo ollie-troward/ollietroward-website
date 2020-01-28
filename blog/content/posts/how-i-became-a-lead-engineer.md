@@ -1,6 +1,6 @@
 +++
 title = "How I Became a Lead Engineer"
-date = 2020-01-28T11:28:22Z
+date = 2020-01-28T20:28:22Z
 description = "Here's my story on how I went from your everyday PHP Engineer to a Lead role that had to take on the technical direction for the product and be responsible for a bunch of Engineer's with a variety of different talents."
 cover = "/img/change-ahead.jpg"
 +++
