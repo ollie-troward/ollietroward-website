@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog 👨🏻‍💻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 28 Jan 2020 20:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 11:57:23 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ollietroward.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Do We Pair? - Tech Talk</title>
+      <link>https://blog.ollietroward.com/posts/why-do-we-pair-tech-talk/</link>
+      <pubDate>Sat, 01 Feb 2020 11:57:23 +0000</pubDate>
+      
+      <guid>https://blog.ollietroward.com/posts/why-do-we-pair-tech-talk/</guid>
+      <description>The project I&#39;m currently assigned to encourages pair programming as an engineering principal. In this talk, you&#39;ll hear story about me and my partner doing the classic weekend chores together. I trialled a brief experiment to see how efficient we could be by mixing up ownership and responsibilities of each task.
+At the end of this talk, you&#39;ll hear from questions from the Sainsbury&#39;s Tech division asking more about the SmartShop project I&#39;m working on and hopefully deeper insight in how we function as a team.</description>
+    </item>
     
     <item>
       <title>How I Became a Lead Engineer</title>

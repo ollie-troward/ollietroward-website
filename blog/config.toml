@@ -24,7 +24,7 @@ disqusShortname = "blog-ollietroward"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Show reading time in minutes for posts
-  showReadingTime = true
+  showReadingTime = false
 
 [languages]
   [languages.en]
@@ -39,8 +39,8 @@ disqusShortname = "blog-ollietroward"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
-    dateFormatSingle = "02/01/2006"
-    dateFormatList = "02/01/2006"
+    dateFormatSingle = "2 January, 2006"
+    dateFormatList = "2 January, 2006"
 
     [languages.en.params.logo]
       logoText = "Ollie Troward 👨🏻‍💻"
