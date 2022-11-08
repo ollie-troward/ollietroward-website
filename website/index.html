@@ -15,11 +15,12 @@
           type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- Global CSS -->
-    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap3.min.css">
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.min.css">
+    <link id="switch" rel="stylesheet" href="assets/css/dj-switch.css">
 </head>
 
 <body>
@@ -40,10 +41,20 @@
                 <li><a href="https://github.com/ollie-troward"><i class="fa fa-github-alt"></i></a></li>
             </ul>
         </div>
-        <a class="btn btn-cta-primary pull-right" href="https://blog.ollietroward.com">
-            <i class="fa fa-arrow-circle-right"></i>
-            Check out my Blog 👨🏻‍💻
-        </a>
+        <div class="row pull-right">
+          <a class="btn btn-cta-primary" href="https://blog.ollietroward.com">
+              <i class="fa fa-arrow-circle-right"></i>
+              Check out my Blog 👨🏻‍💻
+          </a>
+          <br><br>
+          <div class="onoffswitch1">
+            <input type="checkbox" name="onoffswitch1" class="onoffswitch1-checkbox" id="myonoffswitch1">
+            <label class="onoffswitch1-label" for="myonoffswitch1">
+                <span class="onoffswitch1-inner"></span>
+                <span class="onoffswitch1-switch"></span>
+            </label>
+          </div>
+      </div>
     </div>
 </header>
 
@@ -358,6 +369,7 @@
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/plugins/github-card/widget.js"></script>
 <script type="text/javascript" src="assets/js/main.js"></script>
+<script type="text/javascript" src="assets/js/dj-switch.js"></script>
 <script> document.getElementById("year").innerHTML = new Date().getFullYear() - 2012; </script>
 </body>
 </html>
